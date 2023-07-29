@@ -1,0 +1,1 @@
+export const API_URL = "https://na1.api.riotgames.com/tft";
